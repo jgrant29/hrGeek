@@ -1,0 +1,14 @@
+GetNewFactIntent a fact
+GetNewFactIntent a minimum wage fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a minimum wage fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a minimum wage fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a minimum wage trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a minimum wage trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some minimum wage information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
